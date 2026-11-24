@@ -30,5 +30,4 @@ My strongest expertise is product design and UX. My development background helps
 - AI-assisted development experience on ERP projects.
 
 ## Connect
-
-[Portfolio](https://kareem-portfolio-beta.vercel.app/) · [Behance](https://www.behance.net/karemreda3) · [LinkedIn](https://www.linkedin.com/in/karem-reda-9676342a5/)
+[Behance](https://www.behance.net/karemreda3) · [LinkedIn](https://www.linkedin.com/in/karem-reda-9676342a5/)
